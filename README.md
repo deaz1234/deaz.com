@@ -1,2 +1,3 @@
-# deaz.com
-umm im leraning c# i dont know.
+# get my cool programs
+
+https://github.com/deaz1234/at-bat/blob/main/README.md
